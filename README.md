@@ -38,5 +38,8 @@ The above described installation instructions are shown on the example of Linux 
 
 ## Special thanks
 
-[@EdenEast]- For creating this beautiful palette, without you it wouldn't exist
-@NotNeelPatel - For creating your brilliant wallpaper theme converter tool, without you I couldn't make these wallpapers
+EdenEast
+(https://github.com/EdenEast) - For creating this beautiful palette, without you it wouldn't exist ;)
+
+NotNeelPatel
+(https://github.com/NotNeelPatel) - For creating your brilliant wallpaper theme converter tool, without you I couldn't make these wallpapers
