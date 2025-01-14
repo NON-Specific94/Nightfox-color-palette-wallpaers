@@ -28,13 +28,15 @@ Wallpapers from the web converted to the Nightfox color scheme in different vari
 IMPORTANT
 
 The above described installation instructions are shown on the example of Linux Mint. If you have a different system/distribution, the names of the directories with folders may be different.
-## To-Do
+## Status Project
 
-- Wallpapers in Nordfox variant
+- Wallpapers in Duskfox variant - 100%
 
-- Wallpapers in Carbonfox variant
+- Wallpapers in Nordfox variant - 100%
 
-- Wallpapers in Terafox variant
+- Wallpapers in Carbonfox variant - In Progress
+
+- Wallpapers in Terafox variant - In Progress
 
 ## Special thanks
 
